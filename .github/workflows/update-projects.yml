@@ -19,7 +19,7 @@ jobs:
       - name: Update README
         run: python .github/scripts/update_projects.py
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Use GITHUB_TOKEN
       - name: Commit and push if changed
         run: |
           git config --global user.name 'github-actions[bot]'
