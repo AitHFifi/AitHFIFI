@@ -15,6 +15,23 @@
 
 ### 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-87.1%20thousand%20lines%20of%20code-blue)
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     2 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+Java                     2 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/AitHFifi/AitHFifi/main/assets/bar_graph.png)
+
+
+ Last Updated on 13/06/2025 01:21:28 UTC
 <!--END_SECTION:waka-->
 
 ### 🔥 Recent GitHub Activity
