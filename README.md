@@ -19,6 +19,10 @@
 
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/AitHFifi/task-tracker/pull/1) in [AitHFifi/task-tracker](https://github.com/AitHFifi/task-tracker)
+2. 💪 Opened PR [#1](https://github.com/AitHFifi/task-tracker/pull/1) in [AitHFifi/task-tracker](https://github.com/AitHFifi/task-tracker)
+3. 💪 Opened PR [#2](https://github.com/AitHFifi/skills-communicate-using-markdown/pull/2) in [AitHFifi/skills-communicate-using-markdown](https://github.com/AitHFifi/skills-communicate-using-markdown)
+4. 🗣 Commented on [#1](https://github.com/AitHFifi/skills-communicate-using-markdown/issues/1#issuecomment-2931878030) in [AitHFifi/skills-communicate-using-markdown](https://github.com/AitHFifi/skills-communicate-using-markdown)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
