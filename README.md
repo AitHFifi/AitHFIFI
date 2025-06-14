@@ -15,7 +15,48 @@
 
 ### 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-87.1%20thousand%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                10 commits          █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+🌆 Daytime                32 commits          █████████████████░░░░░░░░   66.67 % 
+🌃 Evening                6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Thursday                 31 commits          ████████████████░░░░░░░░░   64.58 % 
+Friday                   3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Johannesburg
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in HTML** 
 
@@ -31,7 +72,7 @@ Java                     2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/AitHFifi/AitHFifi/main/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2025 01:21:28 UTC
+ Last Updated on 14/06/2025 01:18:23 UTC
 <!--END_SECTION:waka-->
 
 ### 🔥 Recent GitHub Activity
