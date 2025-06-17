@@ -15,7 +15,7 @@
 
 ### 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2037%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-88.4%20thousand%20lines%20of%20code-blue)
 
@@ -46,16 +46,22 @@ Sunday                   11 commits          █████░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     2 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   36.60 % 
+Java Properties          1 hr                ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+Other                    31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Bash                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ECommerceAPI             3 hrs 48 mins       █████████████████░░░░░░░░   67.60 % 
+WeatherApi               1 hr 48 mins        ████████░░░░░░░░░░░░░░░░░   32.27 % 
+UnitConverter            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -73,7 +79,7 @@ JavaScript               1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AitHFifi/AitHFifi/main/assets/bar_graph.png)
 
 
- Last Updated on 16/06/2025 01:23:42 UTC
+ Last Updated on 17/06/2025 01:21:28 UTC
 <!--END_SECTION:waka-->
 
 ### 🔥 Recent GitHub Activity
