@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Frederic ALLOGHO</h1>
-<h3 align="center">A passionate Student in Software Engineering who aims in Full Stack Developer</h3>
+<h3 align="center">A passionate Student in Software Engineering who loves Backend Development. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aithfifi&label=Profile%20views&color=0e75b6&style=flat" alt="aithfifi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aithfifi" alt="aithfifi" /></a> </p>
 
 - 🔭 I'm currently working on **Trip Planner V3**
-- 🌱 I'm currently learning **Spring Boot and Python**
+- 🌱 I'm currently learning **Spring Boot**
 - 👯 I'm looking to collaborate on **Trip Planner V3**
 - 🤝 I'm looking for help with **Trip Planner V3**
 - 👨‍💻 All of my projects are available on my portfolio [aithfifi.com](aithfifi.com)
