@@ -111,4 +111,7 @@ JavaScript               1 repo              █████░░░░░░�
 ### 📊 Latest Projects
 
 <!-- LATEST-PROJECTS:START -->
+1. [Task Tracker](https://github.com/AitHFifi/task-tracker) - A productivity tool for managing daily tasks
+2. [ECommerceAPI](https://github.com/AitHFifi/ecommerce-api) - Backend API for an e-commerce platform
+3. [WeatherApi](https://github.com/AitHFifi/weather-api) - A weather forecasting service
 <!-- LATEST-PROJECTS:END -->
