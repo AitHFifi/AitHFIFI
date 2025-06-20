@@ -106,7 +106,7 @@ JavaScript               1 repo              █████░░░░░░�
 
 ![](https://github-readme-stats.vercel.app/api?username=aithfifi&show_icons=true&locale=en&count_private=true&hide=prs,issues&theme=radical)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=aithfifi&theme=radical)
+![](https://streak-stats.demolab.com/?user=aithfifi&theme=radical)
 
 ### 📊 Latest Projects
 
