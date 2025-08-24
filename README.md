@@ -44,24 +44,16 @@ Sunday                   13 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-Java                     8 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   38.03 % 
-PHP                      7 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   36.96 % 
-SQL                      2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-CSS                      1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-HTML                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  21 hrs 23 mins      █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-FinalWebDesign           9 hrs 56 mins       ████████████░░░░░░░░░░░░░   46.51 % 
-SubscriptionSystem       9 hrs 20 mins       ███████████░░░░░░░░░░░░░░   43.69 % 
-ShareHub                 1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-student_management       41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-library-management-system1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  21 hrs 23 mins      █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in CSS** 
@@ -80,7 +72,7 @@ JavaScript               1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AitHFifi/AitHFifi/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2025 02:05:55 UTC
+ Last Updated on 24/08/2025 01:54:52 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
