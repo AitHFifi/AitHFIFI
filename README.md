@@ -15,15 +15,15 @@
 
 ### 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-97.1%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-202.7%20thousand%20lines%20of%20code-blue)
 
-**I Mostly Code in CSS** 
+**I Mostly Code in Java** 
 
 ```text
-CSS                      2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-HTML                     2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Java                     2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Java                     5 repos             ██████████████░░░░░░░░░░░   55.56 % 
+HTML                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+CSS                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 ```
 
 
@@ -33,7 +33,7 @@ JavaScript               1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AitHFifi/AitHFifi/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2025 01:47:08 UTC
+ Last Updated on 28/09/2025 01:48:04 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
