@@ -49,10 +49,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aithfifi&show_icons=true&locale=en&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aithfifi&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ---
 
 ## 💰 You can help me by Donating
