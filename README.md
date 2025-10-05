@@ -27,7 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aithfifi&show_icons=true&locale=en" alt="aithfifi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aithfifi&" alt="aithfifi" /></p>
-
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/FredericALLOGHO) 
