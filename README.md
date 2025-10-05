@@ -12,10 +12,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=AitHFifi&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AitHFifi&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=AitHFifi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <br>*"Code, lift, game, repeat."* 💻🏋️🎮
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/http://paypal.me/FredericALLOGHO) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/FredericALLOGHO) 
