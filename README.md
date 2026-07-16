@@ -1,95 +1,75 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="120" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/allogho/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://x.com/filsallogho" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="twitter logo" />
-  </a>
-  <a href="https://www.instagram.com/alloghofils" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="instagram logo" />
-  </a>
-  <a href="mailto:alloghofrederic9@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
-  <a href="http://wa.me/+250734485999" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="25" alt="whatsapp logo" />
-  </a>
-</div>
-
-###
-
-<h1 align="center">Hey there 👋</h1>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AitHFifi.AitHFifi" />
-</div>
-
-###
-
-<h3 align="left">👩‍💻 About Me</h3>
-
-<p align="left">
-I'm <b>ALLOGHO Frederic</b>, a Full-Stack & Mobile Engineer majoring in Software Engineering at AUCA. I specialize in building high-performance systems with clean architecture, local AI orchestration, and premium, polished user experiences.<br><br>
-- 🚀 <b>Core Focus:</b> Developing multi-tenant SaaS platforms and automated digital marketplaces.<br>
-- 🛠️ <b>Current Deep Dive:</b> Mastering cloud infrastructure automation using Terraform.<br>
-- 🎮 <b>Off-Duty:</b> You can usually find me on my PS5 when I'm away from my code editor.
-</p>
-
-###
-
-<h3 align="left">🛠️ Core Tech Stack</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-  
-  <br><br>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  
-  <br><br>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-</div>
-
-###
-
-<h3 align="left">🔥 My Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AitHFifi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
+<table border="0" width="100%">
+  <tr valign="top">
+    <!-- LEFT COLUMN: Bio & Tech Stack -->
+    <td width="50%">
+      <h3>👩‍💻 About Me</h3>
+      <p>
+        I'm <b>ALLOGHO Frederic</b>, a Full-Stack & Mobile Engineer majoring in Software Engineering at AUCA. I specialize in building high-performance systems with clean architecture, local AI orchestration, and premium user experiences.
+      </p>
+      <ul>
+        <li>🚀 <b>Core Focus:</b> Multi-tenant SaaS & automated digital marketplaces.</li>
+        <li>🛠️ <b>Current Deep Dive:</b> Cloud infrastructure automation with Terraform.</li>
+        <li>🎮 <b>Off-Duty:</b> Catch me on my PS5 when I'm away from my code editor.</li>
+      </ul>
+      <br/>
+      <h3>🛠️ Core Tech Stack</h3>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript" />
+        <img width="5" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs" />
+        <img width="5" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react" />
+        <img width="5" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="tailwindcss" />
+        <img width="5" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql" />
+      </p>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs" />
+        <img width="5" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java" />
+        <img width="5" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma" />
+        <img width="5" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git" />
+        <img width="5" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode" />
+      </p>
+    </td>
+    <!-- RIGHT COLUMN: Socials & Stats -->
+    <td width="50%" align="center">
+      <h3>🌐 Connect with Me</h3>
+      <p>
+        <a href="https://www.linkedin.com/in/allogho/" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="22" alt="linkedin" />
+        </a>
+        <a href="https://x.com/filsallogho" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="22" alt="twitter" />
+        </a>
+        <a href="https://www.instagram.com/alloghofils" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="22" alt="instagram" />
+        </a>
+      </p>
+      <p>
+        <a href="mailto:alloghofrederic9@gmail.com" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="22" alt="gmail" />
+        </a>
+        <a href="http://wa.me/+250734485999" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="22" alt="whatsapp" />
+        </a>
+      </p>
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=AitHFifi.AitHFifi" />
+      <br/><br/>
+      <img src="https://streak-stats.demolab.com?user=AitHFifi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="90%" alt="streak graph" />
+    </td>
+  </tr>
+</table>
 
 ###
 
