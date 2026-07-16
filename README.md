@@ -1,10 +1,5 @@
-<div align="center">
-  <img height="160" src="./assets/stein.gif" alt="Dr. Stein Soul Eater" />
-</div>
-
 <table border="0" width="100%">
   <tr valign="top">
-    <!-- LEFT COLUMN: Bio & Expanded Tech Stack -->
     <td width="55%">
       <h3>👩‍💻 About Me</h3>
       <p>
@@ -42,7 +37,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" alt="jupyter" />
       </p>
     </td>
-    <!-- RIGHT COLUMN: Socials & Profile Stats -->
     <td width="45%" align="center">
       <h3>🌐 Connect with Me</h3>
       <p>
@@ -61,20 +55,4 @@
           <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="22" alt="gmail" />
         </a>&nbsp;
         <a href="http://wa.me/+250734485999" target="_blank">
-          <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="22" alt="whatsapp" />
-        </a>
-      </p>
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=AitHFifi.AitHFifi" />
-      <br/><br/>
-      <img src="https://streak-stats.demolab.com?user=AitHFifi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="95%" alt="streak graph" />
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AitHFifi/AitHFifi/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AitHFifi/AitHFifi/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AitHFifi/AitHFifi/output/pacman-contribution-graph.svg" width="100%">
-  </picture>
-</div>
+          <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366
