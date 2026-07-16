@@ -55,4 +55,22 @@
           <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="22" alt="gmail" />
         </a>&nbsp;
         <a href="http://wa.me/+250734485999" target="_blank">
-          <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366
+          <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="22" alt="whatsapp" />
+        </a>
+      </p>
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=AitHFifi.AitHFifi" />
+      <br/><br/>
+      <img src="https://streak-stats.demolab.com?user=AitHFifi&background=0d1117&ring=f87171&fire=ef4444&currStreakNum=f87171&sideNums=ffffff&sideLabels=9ca3af&dates=6b7280&hide_border=true" width="95%" alt="streak graph" />
+      <br/><br/>
+      <img height="130" src="./assets/stein.gif" alt="Dr. Stein Soul Eater" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AitHFifi/AitHFifi/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AitHFifi/AitHFifi/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AitHFifi/AitHFifi/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</div>
