@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="http://googleusercontent.com/image_collection/image_retrieval/11573203346795679780_0" />
+  <img height="150" src="./assets/stein.gif" />
 </div>
 
 ###
