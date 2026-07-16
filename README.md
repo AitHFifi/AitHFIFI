@@ -1,24 +1,27 @@
 <div align="center">
-  <img height="150" src="./assets/stein.gif" />
+  <!-- Dr. Stein Rolling Chair GIF -->
+  <img height="160" src="./assets/stein.gif" alt="Dr. Stein Soul Eater" />
 </div>
 
 ###
 
 <table border="0" width="100%">
   <tr valign="top">
-    <!-- LEFT COLUMN: Bio & Tech Stack -->
-    <td width="50%">
+    <!-- LEFT COLUMN: Bio & Expanded Tech Stack -->
+    <td width="55%">
       <h3>👩‍💻 About Me</h3>
       <p>
         I'm <b>ALLOGHO Frederic</b>, a Full-Stack & Mobile Engineer majoring in Software Engineering at AUCA. I specialize in building high-performance systems with clean architecture, local AI orchestration, and premium user experiences.
       </p>
       <ul>
-        <li>🚀 <b>Core Focus:</b> Multi-tenant SaaS & automated digital marketplaces.</li>
+        <li>🚀 <b>Core Focus:</b> Multi-tenant SaaS platforms & automated digital marketplaces.</li>
         <li>🛠️ <b>Current Deep Dive:</b> Cloud infrastructure automation with Terraform.</li>
         <li>🎮 <b>Off-Duty:</b> Catch me on my PS5 when I'm away from my code editor.</li>
       </ul>
       <br/>
       <h3>🛠️ Core Tech Stack</h3>
+      
+      <b>Frontend & UI</b>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript" />
         <img width="5" />
@@ -28,22 +31,37 @@
         <img width="5" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="tailwindcss" />
         <img width="5" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma" />
       </p>
+
+      <b>Backend & Infrastructure</b>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs" />
         <img width="5" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="35" alt="nestjs" />
         <img width="5" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql" />
         <img width="5" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb" />
         <img width="5" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker" />
+        <img width="5" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="35" alt="terraform" />
+      </p>
+
+      <b>AI & Data Science</b>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35" alt="tensorflow" />
+        <img width="5" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="pandas" />
+        <img width="5" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" alt="numpy" />
+        <img width="5" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" alt="jupyter" />
       </p>
     </td>
-    <!-- RIGHT COLUMN: Socials & Stats -->
-    <td width="50%" align="center">
+    <!-- RIGHT COLUMN: Socials & Profile Stats -->
+    <td width="45%" align="center">
       <h3>🌐 Connect with Me</h3>
       <p>
         <a href="https://www.linkedin.com/in/allogho/" target="_blank">
@@ -66,7 +84,7 @@
       </p>
       <img src="https://visitor-badge.laobi.icu/badge?page_id=AitHFifi.AitHFifi" />
       <br/><br/>
-      <img src="https://streak-stats.demolab.com?user=AitHFifi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="90%" alt="streak graph" />
+      <img src="https://streak-stats.demolab.com?user=AitHFifi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="95%" alt="streak graph" />
     </td>
   </tr>
 </table>
