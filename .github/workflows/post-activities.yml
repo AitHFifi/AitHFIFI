@@ -3,36 +3,65 @@ name: Generate Pacman Contribution Graph
 on:
   # Run automatically every 12 hours
   schedule:
-    - cron: "0 */12 * * *" 
-  
+    - cron: "0 */12 * * *"
+
   # Allows you to manually trigger it anytime from the Actions tab
   workflow_dispatch:
-  
+
   # Run on every push to the main branch
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
-    permissions: 
+    permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
+    # The contribution API can occasionally reset the connection. Allow time
+    # for the retry attempts below and for the publishing step.
+    timeout-minutes: 15
+
     steps:
-      # Generates a game from a github user contributions graph, output a svg animation
-      - name: Generate pacman-contribution-graph.svg
+      # The snk action fetches the contribution calendar from GitHub. Retry
+      # transient upstream connection failures before failing the job.
+      - name: Generate pacman-contribution-graph.svg (attempt 1)
+        id: generate-1
+        continue-on-error: true
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: AitHFifi
+          github_token: ${{ github.token }}
           outputs: |
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
-          
-      # Push the content of <build_dir> to a branch
-      # The content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file>
+
+      - name: Generate pacman-contribution-graph.svg (attempt 2)
+        id: generate-2
+        if: steps.generate-1.outcome == 'failure'
+        continue-on-error: true
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: AitHFifi
+          github_token: ${{ github.token }}
+          outputs: |
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+
+      - name: Generate pacman-contribution-graph.svg (attempt 3)
+        id: generate-3
+        if: steps.generate-2.outcome == 'failure'
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: AitHFifi
+          github_token: ${{ github.token }}
+          outputs: |
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+
+      # Push the content of dist to the output branch.
       - name: Push pacman-contribution-graph.svg to the output branch
+        if: steps.generate-1.outcome == 'success' || steps.generate-2.outcome == 'success' || steps.generate-3.outcome == 'success'
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
